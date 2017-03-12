@@ -7,10 +7,10 @@ $(document).ready(function() {
         link: 'http://steamcommunity.com/id/Emelge'
     }, {
         name: 'frost',
-        link: '#'
+        link: 'http://steamcommunity.com/id/frostguards/'
     }, {
         name: 'rubin',
-        link: '#'
+        link: 'http://steamcommunity.com/profiles/76561198079657835/'
     }, {
         name: 'axel',
         link: 'http://steamcommunity.com/profiles/76561198079922052'
