@@ -12,9 +12,6 @@ $(document).ready(function() {
         name: 'rubin',
         link: 'http://steamcommunity.com/profiles/76561198079657835/'
     }, {
-        name: 'axel',
-        link: 'http://steamcommunity.com/profiles/76561198079922052'
-    },{
         name: 'ludwig',
         link: 'http://steamcommunity.com/id/TomzBroz/'
     }, ];
